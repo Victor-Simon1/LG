@@ -1,0 +1,78 @@
+Loup-Garou
+Loup
+----------------------
+Loup-Garou Blanc
+Loup
+----------------------
+Infect
+Loup
+----------------------
+Ange
+Village
+----------------------
+Simple Villageois
+Village
+----------------------
+Assassin
+Neutre
+----------------------
+Chaman
+Village
+----------------------
+Loup Amnesique
+Loup
+----------------------
+Vilain Petit Loup
+Loup
+----------------------
+Sorciere
+Village
+----------------------
+Voyante Bavarde
+Village
+----------------------
+Chasseur
+Village
+----------------------
+Soeur
+Village
+----------------------
+Voleur
+Neutre
+----------------------
+Petite Fille
+Village
+----------------------
+Montreur d'Ours
+Village
+----------------------
+Renard
+Village
+----------------------
+Détective
+Village
+----------------------
+Salvateur
+Village
+----------------------
+Trublion
+Village
+----------------------
+Cupidon
+Village
+----------------------
+Ancien
+Village
+----------------------
+Citoyen
+Village
+----------------------
+Loup-Garou Feutré
+Loup
+----------------------
+Loup-Garou Perfide
+Loup
+----------------------
+Enfant Sauvage
+Village
+----------------------
